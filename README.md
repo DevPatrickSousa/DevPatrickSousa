@@ -1,8 +1,4 @@
 ### <strong>Hello, i'm Patrick! </strong>
-
-
-
- Actually, i'm learning and pracc to become a front-end dev.
  <hr>
 
   <div align="center">
@@ -19,4 +15,4 @@
   <a href="https://www.linkedin.com/in/devpatricksousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <hr>
 </div>
-teste
+
