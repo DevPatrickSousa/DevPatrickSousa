@@ -4,14 +4,7 @@
 
  Actually, i'm learning and pracc to become a front-end dev.
  <hr>
-<p> most recents Technologys that im learning: 
 
-
-  <li><strong>HTML5 </strong>
-    <li><strong>CSS3</strong>
-      <li><strong>JavaScript</strong>
-        <li><strong>Vue.js</strong>
-          <p>
   <div align="center" style="display:inline_block">
   <a href="https://github.com/DevPatrickSousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevPatrickSousa&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
