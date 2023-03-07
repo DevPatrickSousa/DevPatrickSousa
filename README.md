@@ -6,9 +6,7 @@
  Actually, i'm learning and pracc to become a front-end dev.
 </div>
 
-<hr/>
-
-
+ <hr>
  
  <div align="center">
  <h2><a href="https://patrick-sousa.vercel.app" target="_blank" style="color: black; text-decoration: none;">patrick-sousa.vercel.app</a></h2>
