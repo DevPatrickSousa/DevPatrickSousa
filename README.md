@@ -3,7 +3,7 @@
  </div>
   
 <div align="center">
- Actually, i'm learning and pracc to become a front-end dev.
+ Fullstack developer with a strong affinity and passion for technology since my first contact with IT. I have hands-on experience in implementing new features and solving issues in systems.
 </div>
 
  <hr>
@@ -29,16 +29,18 @@
   <hr>
  
  <div align="center">
- <h2>most recents Technologys that i'm learning</h2>
+ <h2"technologies i have knowledge of:</h2>
  </div>
  
  <div align="center"> 
-  <h5>HTML5</h5>
-  
-  <h5>CSS3</h5>
-  
+  <h5>Vue</h5>
+  <h5>Nuxt</h5>
+  <h5>Vuetify</h5>
+  <h5>PrimeVue</h5>
+  <h5>Django</h5>
   <h5>JavaScript</h5>
-  
-  <h5>Vue.js</h5>
+  <h5>Python</h5>
+  <h5>React Native</h5>
+  <h5>Chrome Extensions</h5>
 </div>
 
