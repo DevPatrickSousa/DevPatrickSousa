@@ -1,46 +1,65 @@
- <div align="center"> 
-<h1>Hello, i'm Patrick! </h1>
- </div>
-  
-<div align="center">
- Fullstack developer with a strong affinity and passion for technology since my first contact with IT. I have hands-on experience in implementing new features and solving issues in systems.
-</div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://github.com/DevPatrickSousa/DevPatrickSousa/blob/main/gowther.jpg" alt="Gowther" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+    _____             _______  _____   _____   _____  _  __
+    |  __ \     /\    |__   __||  __ \ |_   _| / ____|| |/ /
+    | |__) |   /  \      | |   | |__) |  | |  | |     | ' /
+    |  ___/   / /\ \     | |   |  _  /   | |  | |     |  <
+    | |      / ____ \    | |   | | \ \  _| |_ | |____ | . \
+    |_|     /_/    \_\   |_|   |_|  \_\|_____| \_____||_|\_\
 
- <hr>
- 
- <div align="center">
- <h2><a href="https://patrick-sousa.vercel.app"  target="_blank">patrick-sousa.vercel.app</a></h2>
-</div>
 
 
 
-<div align="center">
-  <a href="https://github.com/DevPatrickSousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPatrickSousa&layout=compact&langs_count=7&theme=outrun"/>
-</div>
-  
-   <hr>
-         
-<div align="center">
-  
-  <a href="https://www.instagram.com/patrickalv_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devpatricksousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <hr>
- 
- <div align="center">
- <h2"technologies i have knowledge of:</h2>
- </div>
- 
- <div align="center"> 
-  <h5>Vue</h5>
-  <h5>Nuxt</h5>
-  <h5>Vuetify</h5>
-  <h5>PrimeVue</h5>
-  <h5>Django</h5>
-  <h5>JavaScript</h5>
-  <h5>Python</h5>
-  <h5>React Native</h5>
-  <h5>Chrome Extensions</h5>
-</div>
+</p>
 
+    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+    │
+    ├── /𝐁𝐈𝐎
+    │    ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴ/ᴜꜱ)
+    │    └── fullStack developer
+    │
+    ├── /𝐒𝐓𝐀𝐂𝐊
+    │    ├── javaScript
+    │    ├── vue
+    │    ├── nuxt
+    │    ├── vuetify
+    │    ├── primeVue
+    │    ├── python
+    │    ├── django
+    │    ├── react native
+    │    ├── chrome extensions
+    │
+    ├── /𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
+    │    ├── vue3init
+    │    │    └── Extension to quickly create Vue 3 file structures.
+    │    ├── rektive
+    │    │    └── Lightweight reactivity library using JS proxies.
+    │    ├── flightSearch (discontinued)
+    │    │    └── App for comparing flights via API.
+    │    ├── flightInfo
+    │    │    └── Chrome extension for flight info and PDF creation.
+    │    ├── appMakeUp
+    │         └── App to aid victims of domestic violence.
+        
+  </tr>
+</table>
+
+<details>
+<summary> ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </summary>
+<br>
+ <img src="https://github-readme-stats.vercel.app/api?username=DevPatrickSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&bg_color=#151B23&text_color=ffffff" height="163" alt="stats graph"  />
+<br>
+</details>
+
+
+
+
+
+                                                                                                          
+                                                                                                          
