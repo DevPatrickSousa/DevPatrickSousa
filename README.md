@@ -53,7 +53,9 @@
 <details>
 <summary> ━━━━━━━━━━━━━━━━━━━━━━━━━━ 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━ </summary>
 <br>
- <img src="https://github-readme-stats.vercel.app/api?username=DevPatrickSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&bg_color=#151B23&text_color=ffffff" height="163" alt="stats graph"  />
+  <div align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=DevPatrickSousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1&bg_color=#151B23&text_color=ffffff" height="163" alt="stats graph" />
+  </div>
 <br>
 </details>
 
