@@ -41,7 +41,7 @@
     │    ├── rektive
     │    │    └── Lightweight reactivity library using JS proxies.
     │    ├── flightSearch (discontinued)
-    │    │    └── App for comparing flights via API.
+    │    │    └── Web app for comparing flights via API.
     │    ├── flightInfo
     │    │    └── Chrome extension for flight info and PDF creation.
     │    ├── appMakeUp
