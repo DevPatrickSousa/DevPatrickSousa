@@ -37,7 +37,7 @@
     │
     ├── /𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒
     │    ├── vue3init
-    │    │    └── Extension to quickly create Vue 3 file structures.
+    │    │    └── Extension to quickly create Vue 3 SFCs.
     │    ├── rektive
     │    │    └── Lightweight reactivity library using JS proxies.
     │    ├── flightSearch (discontinued)
